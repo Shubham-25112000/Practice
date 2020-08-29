@@ -1,0 +1,10 @@
+h1 {
+    padding: 32px;
+    border: 2px solid rosybrown;
+    width: 50%;
+}
+
+li {
+    padding: 32px;
+    border: saddlebrown 2px solid;
+}
